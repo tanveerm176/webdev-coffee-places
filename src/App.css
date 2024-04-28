@@ -4,8 +4,8 @@
   padding: 2rem;
   text-align: center;
   font-family:  Inter, Avenir, Helvetica, Arial, sans-serif;
-  color: wheat;
-  background-color: brown;
+  color: brown;
+  background-color: white;
 }
   body{
     margin: 0;
@@ -13,4 +13,9 @@
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
+  }
+
+  .custom-image{
+    width: 200px;
+    height: 200px;
   }
