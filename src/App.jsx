@@ -18,6 +18,7 @@ const App = () => {
         title="Absolute Coffee"
         subtitle="Cute coffee shop in Brooklyn"
         image="./absolute-coffee-image.jpg"
+        url = 'https://www.absolutecoffee.nyc/'
       />
     </div>
   );

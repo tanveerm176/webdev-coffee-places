@@ -6,6 +6,9 @@ const Card = (props) => {
       <img className="custom-image" src={props.image} />
       <h3>{props.title}</h3>
       <h4>{props.subtitle}</h4>
+      <a href={props.url} target="_blank">
+        <button>View Menu</button>
+      </a>
     </div>
   );
 };
