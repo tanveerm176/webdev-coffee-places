@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className="App">
       <img
-        src="./coffee-beans.jpg"
+        src="./src/assets/coffee-beans.jpg"
         className="custom-image"
         alt="image of drawn coffee beans"
       />
