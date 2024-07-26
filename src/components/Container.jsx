@@ -20,7 +20,7 @@ const Container = () => {
                 title="Little Sweet Cafe"
                 subtitle=""
                 image="./src/assets/little-sweet-cafe.jpg"
-                url="https://www.downtownbrooklyn.com/listing/the-little-sweet-cafe/"
+                url=""
               />
             </td>
             <td>
